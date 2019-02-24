@@ -6,6 +6,7 @@ Run the program on the command line by typing ./main input.txt
 Commands:
 
 i - Insert value
+
 d - Delete value
 s - Search value
 n - Print next iterator value
